@@ -12,4 +12,4 @@
 
 ### Simulation de présence:  
 [Démonstration et explications](https://www.youtube.com/watch?v=iUAUyo8UW_s)  
-[Code Json Node-red du flux](https://github.com/inettgmbh/fail2ban-proxmox-backup-server)  
+[Code Json Node-red du flux](https://github.com/Tontonjo/homeassistant/blob/main/node-red/presence_simulation.json)
