@@ -1,8 +1,6 @@
 # Home Assistant
 ## Node red
 
-![screenshot](https://i.ibb.co/Tr3rbw0/Screenshot-2022-12-29-101432.png)  
-
 ## Tonton Jo  
 ### Join the community:
 [![Youtube](https://badgen.net/badge/Youtube/Subscribe)](http://youtube.com/channel/UCnED3K6K5FDUp-x_8rwpsZw?sub_confirmation=1)
